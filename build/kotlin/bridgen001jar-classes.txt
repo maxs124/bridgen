@@ -1,0 +1,1 @@
+/home/max/IdeaProjects/bridgen/build/classes/kotlin/main/com/mshmelev/bridgen/Main.class:/home/max/IdeaProjects/bridgen/build/classes/kotlin/main/com/mshmelev/bridgen/commands/BridgenCommand$bridgen$1$1.class:/home/max/IdeaProjects/bridgen/build/classes/kotlin/main/com/mshmelev/bridgen/commands/BridgenCommand.class

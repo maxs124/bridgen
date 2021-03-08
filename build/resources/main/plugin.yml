@@ -1,0 +1,7 @@
+name: bridgen
+version: 0.0.1
+main: com.mshmelev.bridgen.Main
+description: A plugin to prictice pridging in minecraft.
+author: mshmelev
+depend:
+ - KotlinBukkitAPI
